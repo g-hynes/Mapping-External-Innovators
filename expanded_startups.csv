@@ -1,0 +1,501 @@
+Company Name,Founder,University,Location,Latitude,Longitude,Year Founded,Therapeutic Areas,Development Stage
+Company 1,Dr. Rahul Morgan,UCLA,"Ann Arbor, MI",42.3601,-71.1097,2021,Neurology,Clinical Phase I
+Company 2,Dr. Sandra Smith,UCLA,"New Haven, CT",42.2808,-72.9279,2004,Rare Diseases,Preclinical
+Company 3,Dr. Michael Chen,University of Michigan,"Los Angeles, CA",34.0522,-122.2727,2010,Infectious Diseases,Clinical Phase III
+Company 4,Dr. Rahul Wilson,University of Michigan,"New Haven, CT",42.3601,-74.6592,2003,Rare Diseases,Clinical Phase II
+Company 5,Dr. Rahul Garcia,Princeton University,"Chicago, IL",37.8716,-72.9279,2007,Infectious Diseases,Clinical Phase II
+Company 6,Dr. Laura Morgan,MIT,"Palo Alto, CA",42.3601,-122.2727,2009,Neurology,Preclinical
+Company 7,Dr. Alice Desai,Princeton University,"Princeton, NJ",42.3736,-122.2727,2003,Endocrinology,Clinical Phase II
+Company 8,Dr. Michael Smith,Caltech,"Palo Alto, CA",34.1478,-87.6298,2005,Cardiology,Clinical Phase II
+Company 9,Dr. Sophia Garcia,Princeton University,"Princeton, NJ",40.3487,-83.743,2011,Infectious Diseases,Clinical Phase II
+Company 10,Dr. Alice Wilson,Yale University,"Princeton, NJ",42.2808,-122.2727,2022,Endocrinology,Clinical Phase II
+Company 11,Dr. Michael Wilson,Yale University,"Los Angeles, CA",42.2808,-87.6298,2004,Neurology,Clinical Phase III
+Company 12,Dr. Laura Smith,Caltech,"New Haven, CT",34.1478,-74.6592,2016,Ophthalmology,Preclinical
+Company 13,Dr. John Garcia,Caltech,"New Haven, CT",34.0522,-118.1445,2012,Neurology,Clinical Phase I
+Company 14,Dr. Sandra Morgan,UC Berkeley,"Chicago, IL",37.8716,-118.2437,2013,Gene Therapy,Clinical Phase I
+Company 15,Dr. Emily Johnson,Princeton University,"Los Angeles, CA",42.2808,-118.2437,2019,Immunology,Clinical Phase II
+Company 16,Dr. David Lee,Yale University,"Palo Alto, CA",34.1478,-83.743,2004,Dermatology,Clinical Phase III
+Company 17,Dr. Emily Smith,University of Chicago,"Chicago, IL",37.4419,-87.6298,2018,Immunology,Clinical Phase II
+Company 18,Dr. David Desai,University of Chicago,"Ann Arbor, MI",42.3736,-118.1445,2012,Neurology,Clinical Phase II
+Company 19,Dr. Rahul Johnson,University of Michigan,"Los Angeles, CA",41.8781,-71.1097,2013,Ophthalmology,Clinical Phase III
+Company 20,Dr. Rahul Brown,UC Berkeley,"Chicago, IL",34.1478,-74.6592,2005,Cardiology,Market-ready
+Company 21,Dr. David Garcia,University of Chicago,"Boston, MA",37.8716,-122.2727,2015,Immunology,Preclinical
+Company 22,Dr. Sandra Morgan,UC Berkeley,"Chicago, IL",34.1478,-122.2727,2020,Cardiology,Clinical Phase I
+Company 23,Dr. John Wilson,Harvard University,"Palo Alto, CA",34.1478,-74.6592,2017,Immunology,Clinical Phase III
+Company 24,Dr. Rahul Johnson,Yale University,"Chicago, IL",34.0522,-74.6592,2022,Dermatology,Clinical Phase I
+Company 25,Dr. Rahul Wilson,Princeton University,"Pasadena, CA",41.3083,-87.6298,2020,Rare Diseases,Clinical Phase III
+Company 26,Dr. Sandra Garcia,UC Berkeley,"Pasadena, CA",42.3601,-122.2727,2005,Oncology,Clinical Phase III
+Company 27,Dr. David Garcia,UC Berkeley,"Boston, MA",41.8781,-118.2437,2017,Neurology,Market-ready
+Company 28,Dr. Michael Desai,MIT,"Boston, MA",41.3083,-83.743,2005,Ophthalmology,Clinical Phase II
+Company 29,Dr. Alice Smith,Princeton University,"Pasadena, CA",41.3083,-118.2437,2015,Neurology,Preclinical
+Company 30,Dr. Sandra Desai,Harvard University,"Boston, MA",41.3083,-72.9279,2009,Dermatology,Market-ready
+Company 31,Dr. Michael Desai,MIT,"Boston, MA",37.8716,-122.143,2004,Endocrinology,Clinical Phase I
+Company 32,Dr. Laura Lee,Caltech,"New Haven, CT",41.8781,-118.1445,2005,Immunology,Preclinical
+Company 33,Dr. John Brown,University of Michigan,"New Haven, CT",41.3083,-72.9279,2010,Gene Therapy,Clinical Phase II
+Company 34,Dr. Emily Brown,Yale University,"Chicago, IL",40.3487,-122.143,2014,Rare Diseases,Market-ready
+Company 35,Dr. David Smith,Stanford University,"Pasadena, CA",40.3487,-74.6592,2019,Oncology,Clinical Phase III
+Company 36,Dr. Sandra Desai,Princeton University,"Palo Alto, CA",37.4419,-118.2437,2001,Immunology,Clinical Phase I
+Company 37,Dr. James Chen,Stanford University,"Pasadena, CA",41.3083,-71.1097,2011,Neurology,Market-ready
+Company 38,Dr. Sophia Smith,Caltech,"Pasadena, CA",34.0522,-83.743,2000,Ophthalmology,Market-ready
+Company 39,Dr. Emily Davis,Princeton University,"Ann Arbor, MI",34.1478,-122.2727,2015,Dermatology,Preclinical
+Company 40,Dr. Laura Lee,Harvard University,"Ann Arbor, MI",37.4419,-71.0942,2004,Cardiology,Clinical Phase I
+Company 41,Dr. Sophia Smith,MIT,"Boston, MA",42.2808,-71.0942,2006,Endocrinology,Clinical Phase I
+Company 42,Dr. David Morgan,UC Berkeley,"Cambridge, MA",34.1478,-71.1097,2012,Oncology,Clinical Phase I
+Company 43,Dr. Michael Morgan,MIT,"New Haven, CT",34.0522,-122.143,2017,Infectious Diseases,Preclinical
+Company 44,Dr. David Johnson,Stanford University,"Princeton, NJ",41.8781,-118.2437,2016,Oncology,Clinical Phase I
+Company 45,Dr. Sandra Desai,Princeton University,"Palo Alto, CA",37.4419,-71.0942,2020,Ophthalmology,Preclinical
+Company 46,Dr. Michael Garcia,UCLA,"Ann Arbor, MI",42.3736,-74.6592,2015,Gene Therapy,Clinical Phase III
+Company 47,Dr. David Smith,Yale University,"Pasadena, CA",42.2808,-118.2437,2013,Dermatology,Preclinical
+Company 48,Dr. John Johnson,University of Michigan,"Pasadena, CA",37.8716,-118.1445,2021,Oncology,Clinical Phase II
+Company 49,Dr. John Chen,UC Berkeley,"Cambridge, MA",42.3601,-118.2437,2015,Infectious Diseases,Clinical Phase I
+Company 50,Dr. Sandra Chen,Stanford University,"Cambridge, MA",37.8716,-72.9279,2013,Infectious Diseases,Clinical Phase II
+Company 51,Dr. Michael Wilson,Yale University,"New Haven, CT",34.0522,-83.743,2022,Immunology,Clinical Phase II
+Company 52,Dr. Sophia Lee,Caltech,"Ann Arbor, MI",41.8781,-71.1097,2014,Dermatology,Clinical Phase III
+Company 53,Dr. James Johnson,UC Berkeley,"Palo Alto, CA",41.3083,-118.2437,2015,Gene Therapy,Market-ready
+Company 54,Dr. James Johnson,Yale University,"Palo Alto, CA",42.3601,-118.2437,2005,Neurology,Clinical Phase III
+Company 55,Dr. David Smith,Princeton University,"Boston, MA",41.3083,-122.143,2002,Rare Diseases,Preclinical
+Company 56,Dr. Emily Wilson,Caltech,"Boston, MA",34.0522,-118.1445,2018,Rare Diseases,Preclinical
+Company 57,Dr. John Desai,Harvard University,"Princeton, NJ",41.8781,-118.2437,2000,Cardiology,Clinical Phase I
+Company 58,Dr. Alice Desai,University of Michigan,"Berkeley, CA",34.1478,-71.0942,2007,Dermatology,Clinical Phase II
+Company 59,Dr. Emily Chen,Stanford University,"Pasadena, CA",40.3487,-118.2437,2009,Cardiology,Clinical Phase III
+Company 60,Dr. Laura Garcia,University of Chicago,"Boston, MA",34.1478,-122.2727,2001,Cardiology,Market-ready
+Company 61,Dr. Rahul Johnson,UCLA,"Princeton, NJ",34.1478,-118.2437,2008,Endocrinology,Clinical Phase III
+Company 62,Dr. Laura Garcia,University of Chicago,"Cambridge, MA",42.2808,-74.6592,2007,Rare Diseases,Clinical Phase I
+Company 63,Dr. John Wilson,Stanford University,"Pasadena, CA",34.1478,-72.9279,2017,Neurology,Clinical Phase III
+Company 64,Dr. Sandra Wilson,UC Berkeley,"Boston, MA",42.3736,-83.743,2009,Oncology,Market-ready
+Company 65,Dr. Alice Desai,Stanford University,"Los Angeles, CA",37.4419,-122.2727,2005,Neurology,Market-ready
+Company 66,Dr. Sophia Lee,Stanford University,"New Haven, CT",37.8716,-118.1445,2014,Gene Therapy,Clinical Phase II
+Company 67,Dr. David Desai,Princeton University,"Boston, MA",40.3487,-74.6592,2018,Infectious Diseases,Clinical Phase II
+Company 68,Dr. Sandra Johnson,MIT,"Pasadena, CA",34.1478,-72.9279,2023,Oncology,Clinical Phase I
+Company 69,Dr. Emily Davis,UCLA,"Princeton, NJ",34.0522,-83.743,2015,Gene Therapy,Clinical Phase II
+Company 70,Dr. Alice Lee,Harvard University,"Chicago, IL",34.0522,-83.743,2017,Oncology,Preclinical
+Company 71,Dr. Sophia Chen,Harvard University,"Cambridge, MA",42.3601,-72.9279,2016,Gene Therapy,Clinical Phase II
+Company 72,Dr. Sophia Desai,Yale University,"Pasadena, CA",41.3083,-74.6592,2003,Endocrinology,Preclinical
+Company 73,Dr. Sandra Wilson,Harvard University,"Palo Alto, CA",42.3736,-118.1445,2018,Endocrinology,Clinical Phase III
+Company 74,Dr. James Smith,UCLA,"New Haven, CT",42.3736,-118.1445,2003,Cardiology,Preclinical
+Company 75,Dr. Emily Brown,Yale University,"Palo Alto, CA",42.2808,-122.143,2008,Dermatology,Clinical Phase I
+Company 76,Dr. Emily Wilson,Yale University,"Princeton, NJ",34.1478,-118.1445,2017,Oncology,Market-ready
+Company 77,Dr. Sophia Morgan,UC Berkeley,"Chicago, IL",42.3601,-72.9279,2011,Ophthalmology,Clinical Phase I
+Company 78,Dr. James Brown,MIT,"Cambridge, MA",34.1478,-118.2437,2017,Cardiology,Clinical Phase I
+Company 79,Dr. John Morgan,University of Chicago,"Los Angeles, CA",42.2808,-72.9279,2001,Neurology,Clinical Phase I
+Company 80,Dr. Rahul Brown,Caltech,"Pasadena, CA",40.3487,-72.9279,2023,Endocrinology,Clinical Phase I
+Company 81,Dr. Sandra Smith,UC Berkeley,"Pasadena, CA",42.3736,-122.2727,2014,Rare Diseases,Clinical Phase II
+Company 82,Dr. Alice Smith,University of Michigan,"Princeton, NJ",37.4419,-71.1097,2017,Endocrinology,Clinical Phase III
+Company 83,Dr. James Desai,MIT,"Princeton, NJ",37.8716,-71.0942,2006,Rare Diseases,Market-ready
+Company 84,Dr. Rahul Davis,MIT,"Boston, MA",41.8781,-118.2437,2013,Oncology,Preclinical
+Company 85,Dr. Rahul Wilson,MIT,"Chicago, IL",42.2808,-87.6298,2003,Oncology,Preclinical
+Company 86,Dr. Emily Chen,Stanford University,"New Haven, CT",41.3083,-71.1097,2023,Gene Therapy,Clinical Phase III
+Company 87,Dr. John Wilson,University of Michigan,"New Haven, CT",37.8716,-83.743,2020,Rare Diseases,Clinical Phase I
+Company 88,Dr. Emily Lee,UC Berkeley,"Ann Arbor, MI",41.3083,-74.6592,2007,Infectious Diseases,Clinical Phase I
+Company 89,Dr. Sophia Garcia,University of Michigan,"Berkeley, CA",42.3736,-71.0942,2009,Immunology,Market-ready
+Company 90,Dr. Laura Smith,University of Chicago,"Berkeley, CA",37.8716,-71.0942,2001,Neurology,Preclinical
+Company 91,Dr. Sophia Smith,Princeton University,"New Haven, CT",42.3736,-122.2727,2014,Cardiology,Clinical Phase I
+Company 92,Dr. Sandra Johnson,University of Michigan,"Boston, MA",42.3601,-83.743,2008,Gene Therapy,Clinical Phase II
+Company 93,Dr. David Davis,MIT,"Cambridge, MA",40.3487,-87.6298,2011,Oncology,Market-ready
+Company 94,Dr. Sophia Davis,University of Chicago,"New Haven, CT",34.0522,-118.2437,2002,Neurology,Clinical Phase II
+Company 95,Dr. Rahul Smith,Princeton University,"Palo Alto, CA",41.3083,-72.9279,2014,Cardiology,Clinical Phase II
+Company 96,Dr. Michael Desai,UCLA,"New Haven, CT",40.3487,-118.2437,2003,Dermatology,Clinical Phase III
+Company 97,Dr. David Morgan,Princeton University,"Palo Alto, CA",42.2808,-122.2727,2007,Ophthalmology,Clinical Phase III
+Company 98,Dr. James Wilson,UCLA,"Princeton, NJ",37.4419,-71.0942,2006,Immunology,Clinical Phase II
+Company 99,Dr. Michael Garcia,Harvard University,"Berkeley, CA",37.8716,-118.2437,2023,Rare Diseases,Clinical Phase III
+Company 100,Dr. Michael Morgan,Princeton University,"Ann Arbor, MI",40.3487,-118.1445,2018,Rare Diseases,Clinical Phase II
+Company 101,Dr. Rahul Morgan,UCLA,"Ann Arbor, MI",34.1478,-74.6592,2022,Gene Therapy,Clinical Phase I
+Company 102,Dr. Michael Desai,Caltech,"Boston, MA",40.3487,-72.9279,2011,Immunology,Clinical Phase III
+Company 103,Dr. Alice Brown,MIT,"Chicago, IL",42.2808,-83.743,2022,Dermatology,Clinical Phase II
+Company 104,Dr. Rahul Wilson,Stanford University,"New Haven, CT",42.3601,-118.1445,2019,Endocrinology,Market-ready
+Company 105,Dr. Michael Lee,Princeton University,"Palo Alto, CA",42.3601,-118.1445,2020,Ophthalmology,Market-ready
+Company 106,Dr. John Smith,Yale University,"Boston, MA",37.4419,-118.1445,2013,Ophthalmology,Clinical Phase III
+Company 107,Dr. Sophia Chen,University of Michigan,"Chicago, IL",41.8781,-87.6298,2005,Neurology,Market-ready
+Company 108,Dr. James Garcia,UCLA,"New Haven, CT",37.4419,-72.9279,2019,Oncology,Preclinical
+Company 109,Dr. John Smith,UC Berkeley,"Ann Arbor, MI",37.8716,-87.6298,2004,Endocrinology,Preclinical
+Company 110,Dr. John Johnson,UCLA,"Berkeley, CA",41.3083,-87.6298,2006,Oncology,Market-ready
+Company 111,Dr. Michael Desai,Princeton University,"Chicago, IL",41.3083,-74.6592,2006,Gene Therapy,Clinical Phase II
+Company 112,Dr. Rahul Johnson,UCLA,"Boston, MA",40.3487,-118.1445,2001,Oncology,Market-ready
+Company 113,Dr. David Johnson,University of Chicago,"Palo Alto, CA",41.3083,-87.6298,2018,Immunology,Market-ready
+Company 114,Dr. Laura Davis,UC Berkeley,"Ann Arbor, MI",41.8781,-74.6592,2011,Immunology,Market-ready
+Company 115,Dr. Alice Desai,Princeton University,"Princeton, NJ",34.0522,-71.1097,2017,Neurology,Clinical Phase II
+Company 116,Dr. Alice Johnson,Stanford University,"Berkeley, CA",42.3601,-74.6592,2008,Gene Therapy,Clinical Phase II
+Company 117,Dr. David Desai,University of Chicago,"New Haven, CT",40.3487,-71.1097,2019,Neurology,Preclinical
+Company 118,Dr. Michael Smith,UC Berkeley,"Chicago, IL",37.8716,-122.143,2017,Dermatology,Clinical Phase III
+Company 119,Dr. Michael Wilson,University of Michigan,"Princeton, NJ",40.3487,-71.1097,2005,Cardiology,Preclinical
+Company 120,Dr. John Chen,Yale University,"Palo Alto, CA",42.3736,-71.1097,2010,Oncology,Clinical Phase II
+Company 121,Dr. Laura Chen,University of Michigan,"Berkeley, CA",42.3736,-122.2727,2022,Infectious Diseases,Clinical Phase II
+Company 122,Dr. Sandra Davis,UCLA,"Princeton, NJ",42.3736,-87.6298,2009,Infectious Diseases,Clinical Phase II
+Company 123,Dr. Michael Desai,UCLA,"New Haven, CT",41.8781,-118.2437,2009,Rare Diseases,Clinical Phase II
+Company 124,Dr. John Wilson,Harvard University,"Cambridge, MA",41.3083,-122.143,2018,Oncology,Clinical Phase II
+Company 125,Dr. Rahul Morgan,UC Berkeley,"New Haven, CT",34.1478,-87.6298,2008,Immunology,Clinical Phase II
+Company 126,Dr. Sophia Morgan,UCLA,"Ann Arbor, MI",40.3487,-71.1097,2016,Oncology,Clinical Phase I
+Company 127,Dr. Rahul Smith,Harvard University,"Chicago, IL",34.1478,-118.2437,2021,Neurology,Clinical Phase I
+Company 128,Dr. Emily Johnson,University of Michigan,"Los Angeles, CA",41.8781,-74.6592,2003,Endocrinology,Market-ready
+Company 129,Dr. John Davis,Harvard University,"New Haven, CT",42.3601,-118.1445,2004,Gene Therapy,Clinical Phase I
+Company 130,Dr. Michael Johnson,University of Michigan,"Pasadena, CA",40.3487,-72.9279,2013,Oncology,Preclinical
+Company 131,Dr. Alice Chen,Princeton University,"Los Angeles, CA",41.8781,-71.1097,2001,Cardiology,Market-ready
+Company 132,Dr. Laura Morgan,UCLA,"Los Angeles, CA",41.3083,-71.0942,2008,Oncology,Clinical Phase III
+Company 133,Dr. Laura Lee,University of Chicago,"Chicago, IL",42.3601,-71.0942,2020,Immunology,Clinical Phase II
+Company 134,Dr. John Lee,University of Michigan,"Chicago, IL",41.3083,-118.1445,2004,Endocrinology,Clinical Phase I
+Company 135,Dr. Laura Wilson,Yale University,"Palo Alto, CA",41.8781,-118.1445,2022,Immunology,Preclinical
+Company 136,Dr. John Chen,University of Chicago,"Ann Arbor, MI",37.8716,-71.1097,2004,Gene Therapy,Clinical Phase III
+Company 137,Dr. Michael Lee,University of Chicago,"Palo Alto, CA",42.3601,-71.1097,2007,Infectious Diseases,Clinical Phase II
+Company 138,Dr. Michael Morgan,University of Michigan,"Princeton, NJ",42.2808,-74.6592,2004,Dermatology,Clinical Phase II
+Company 139,Dr. James Wilson,UCLA,"Princeton, NJ",42.3601,-74.6592,2022,Dermatology,Clinical Phase III
+Company 140,Dr. Alice Brown,MIT,"Princeton, NJ",41.3083,-122.2727,2010,Endocrinology,Clinical Phase III
+Company 141,Dr. Alice Morgan,Stanford University,"Cambridge, MA",40.3487,-71.1097,2007,Immunology,Clinical Phase III
+Company 142,Dr. James Davis,Harvard University,"New Haven, CT",40.3487,-71.1097,2021,Dermatology,Preclinical
+Company 143,Dr. Sophia Wilson,UCLA,"Boston, MA",40.3487,-74.6592,2012,Dermatology,Market-ready
+Company 144,Dr. Emily Morgan,Princeton University,"Chicago, IL",34.1478,-83.743,2015,Gene Therapy,Market-ready
+Company 145,Dr. Sophia Desai,Harvard University,"Boston, MA",42.3601,-74.6592,2004,Cardiology,Clinical Phase I
+Company 146,Dr. Emily Desai,University of Michigan,"Berkeley, CA",42.2808,-83.743,2018,Neurology,Clinical Phase II
+Company 147,Dr. James Desai,Yale University,"Chicago, IL",34.1478,-71.1097,2020,Gene Therapy,Clinical Phase I
+Company 148,Dr. Michael Johnson,MIT,"Chicago, IL",42.3736,-74.6592,2008,Rare Diseases,Market-ready
+Company 149,Dr. Rahul Garcia,Stanford University,"Chicago, IL",41.3083,-122.2727,2020,Rare Diseases,Clinical Phase III
+Company 150,Dr. Michael Garcia,UCLA,"Boston, MA",41.3083,-87.6298,2013,Endocrinology,Clinical Phase II
+Company 151,Dr. James Morgan,Yale University,"Chicago, IL",37.4419,-122.143,2012,Gene Therapy,Market-ready
+Company 152,Dr. James Desai,UC Berkeley,"Pasadena, CA",37.8716,-122.143,2014,Immunology,Clinical Phase II
+Company 153,Dr. Laura Garcia,MIT,"Cambridge, MA",42.3601,-74.6592,2002,Infectious Diseases,Clinical Phase I
+Company 154,Dr. James Wilson,University of Chicago,"Berkeley, CA",42.2808,-87.6298,2020,Infectious Diseases,Market-ready
+Company 155,Dr. David Lee,MIT,"New Haven, CT",42.3736,-118.2437,2002,Infectious Diseases,Clinical Phase I
+Company 156,Dr. Michael Brown,Caltech,"Los Angeles, CA",42.3601,-118.2437,2012,Neurology,Clinical Phase II
+Company 157,Dr. Michael Lee,Yale University,"Pasadena, CA",34.1478,-71.0942,2016,Rare Diseases,Preclinical
+Company 158,Dr. Laura Chen,Caltech,"Boston, MA",42.2808,-74.6592,2023,Endocrinology,Clinical Phase III
+Company 159,Dr. Sandra Davis,Caltech,"Ann Arbor, MI",42.3601,-83.743,2008,Dermatology,Clinical Phase I
+Company 160,Dr. David Desai,UCLA,"Pasadena, CA",42.3601,-72.9279,2022,Ophthalmology,Clinical Phase II
+Company 161,Dr. Alice Davis,MIT,"Los Angeles, CA",34.0522,-83.743,2011,Endocrinology,Market-ready
+Company 162,Dr. James Garcia,UCLA,"Princeton, NJ",42.3736,-122.2727,2014,Immunology,Clinical Phase I
+Company 163,Dr. Rahul Desai,Princeton University,"Los Angeles, CA",42.3601,-122.143,2015,Oncology,Clinical Phase II
+Company 164,Dr. Sophia Smith,UCLA,"Ann Arbor, MI",34.1478,-72.9279,2010,Rare Diseases,Preclinical
+Company 165,Dr. Sophia Lee,Yale University,"Pasadena, CA",41.8781,-122.2727,2018,Dermatology,Clinical Phase I
+Company 166,Dr. Emily Brown,Stanford University,"Los Angeles, CA",40.3487,-118.1445,2000,Gene Therapy,Clinical Phase II
+Company 167,Dr. Rahul Smith,Princeton University,"New Haven, CT",42.3601,-71.0942,2023,Dermatology,Clinical Phase I
+Company 168,Dr. David Lee,Stanford University,"Boston, MA",37.8716,-118.2437,2002,Neurology,Clinical Phase II
+Company 169,Dr. Emily Davis,MIT,"Pasadena, CA",41.8781,-118.2437,2023,Ophthalmology,Clinical Phase III
+Company 170,Dr. Sophia Lee,University of Chicago,"Pasadena, CA",34.0522,-83.743,2014,Neurology,Clinical Phase II
+Company 171,Dr. James Wilson,UC Berkeley,"Ann Arbor, MI",42.3736,-122.143,2020,Ophthalmology,Clinical Phase II
+Company 172,Dr. Alice Wilson,Caltech,"Berkeley, CA",42.3601,-71.1097,2021,Immunology,Clinical Phase II
+Company 173,Dr. Sandra Desai,Yale University,"Princeton, NJ",37.4419,-122.143,2022,Dermatology,Market-ready
+Company 174,Dr. Emily Lee,Stanford University,"Princeton, NJ",34.0522,-122.2727,2011,Cardiology,Clinical Phase II
+Company 175,Dr. Rahul Desai,UC Berkeley,"Berkeley, CA",42.3736,-122.2727,2002,Endocrinology,Clinical Phase III
+Company 176,Dr. Sophia Chen,Harvard University,"Chicago, IL",34.1478,-122.2727,2017,Ophthalmology,Preclinical
+Company 177,Dr. Sandra Lee,UCLA,"Los Angeles, CA",41.3083,-74.6592,2012,Endocrinology,Clinical Phase III
+Company 178,Dr. James Smith,Caltech,"Boston, MA",37.8716,-118.1445,2006,Cardiology,Preclinical
+Company 179,Dr. David Smith,Stanford University,"Chicago, IL",41.8781,-71.1097,2013,Infectious Diseases,Market-ready
+Company 180,Dr. Sandra Wilson,Princeton University,"Ann Arbor, MI",37.8716,-71.1097,2006,Ophthalmology,Market-ready
+Company 181,Dr. John Lee,Yale University,"Cambridge, MA",34.0522,-87.6298,2015,Cardiology,Market-ready
+Company 182,Dr. Alice Desai,UCLA,"Pasadena, CA",37.8716,-122.143,2008,Dermatology,Preclinical
+Company 183,Dr. Laura Lee,University of Michigan,"New Haven, CT",40.3487,-118.1445,2010,Rare Diseases,Clinical Phase III
+Company 184,Dr. Alice Morgan,UC Berkeley,"Princeton, NJ",42.3601,-122.2727,2009,Gene Therapy,Clinical Phase I
+Company 185,Dr. David Chen,Yale University,"Palo Alto, CA",34.1478,-72.9279,2010,Immunology,Market-ready
+Company 186,Dr. Sandra Chen,Stanford University,"Princeton, NJ",42.3736,-71.0942,2017,Cardiology,Preclinical
+Company 187,Dr. John Wilson,University of Chicago,"Palo Alto, CA",41.8781,-122.143,2018,Infectious Diseases,Clinical Phase III
+Company 188,Dr. Laura Wilson,Princeton University,"Ann Arbor, MI",40.3487,-74.6592,2004,Neurology,Market-ready
+Company 189,Dr. Alice Desai,Harvard University,"Palo Alto, CA",34.0522,-71.1097,2018,Immunology,Clinical Phase II
+Company 190,Dr. Rahul Chen,University of Michigan,"Chicago, IL",40.3487,-118.2437,2015,Rare Diseases,Clinical Phase III
+Company 191,Dr. Sophia Morgan,Caltech,"Ann Arbor, MI",41.3083,-118.2437,2010,Immunology,Preclinical
+Company 192,Dr. David Garcia,Yale University,"Pasadena, CA",34.1478,-71.0942,2021,Endocrinology,Clinical Phase I
+Company 193,Dr. Sophia Chen,University of Michigan,"Princeton, NJ",40.3487,-118.1445,2001,Ophthalmology,Clinical Phase I
+Company 194,Dr. Laura Chen,University of Chicago,"Chicago, IL",37.8716,-83.743,2001,Cardiology,Clinical Phase I
+Company 195,Dr. Alice Lee,Stanford University,"Berkeley, CA",41.3083,-71.1097,2003,Infectious Diseases,Clinical Phase II
+Company 196,Dr. David Morgan,Princeton University,"Palo Alto, CA",41.8781,-122.143,2020,Neurology,Clinical Phase III
+Company 197,Dr. David Smith,UCLA,"Los Angeles, CA",34.1478,-83.743,2014,Gene Therapy,Market-ready
+Company 198,Dr. Michael Desai,UC Berkeley,"Pasadena, CA",40.3487,-74.6592,2000,Oncology,Clinical Phase III
+Company 199,Dr. David Wilson,Stanford University,"New Haven, CT",41.3083,-71.0942,2003,Neurology,Clinical Phase I
+Company 200,Dr. Laura Garcia,MIT,"Cambridge, MA",40.3487,-71.1097,2005,Neurology,Clinical Phase II
+Company 201,Dr. Emily Smith,Harvard University,"Berkeley, CA",41.3083,-87.6298,2014,Rare Diseases,Clinical Phase I
+Company 202,Dr. Emily Chen,Harvard University,"Cambridge, MA",42.2808,-72.9279,2014,Ophthalmology,Preclinical
+Company 203,Dr. Laura Morgan,UCLA,"Berkeley, CA",42.3601,-71.1097,2000,Immunology,Clinical Phase III
+Company 204,Dr. Emily Brown,Princeton University,"Princeton, NJ",34.1478,-118.2437,2013,Neurology,Clinical Phase II
+Company 205,Dr. Laura Smith,Stanford University,"New Haven, CT",34.0522,-71.0942,2006,Infectious Diseases,Clinical Phase I
+Company 206,Dr. Sandra Chen,Stanford University,"Los Angeles, CA",34.0522,-87.6298,2022,Dermatology,Clinical Phase II
+Company 207,Dr. Rahul Johnson,University of Chicago,"Berkeley, CA",42.2808,-122.2727,2004,Cardiology,Preclinical
+Company 208,Dr. Alice Davis,Caltech,"Palo Alto, CA",40.3487,-122.143,2020,Gene Therapy,Preclinical
+Company 209,Dr. Michael Smith,MIT,"New Haven, CT",42.2808,-83.743,2009,Gene Therapy,Clinical Phase III
+Company 210,Dr. John Brown,UC Berkeley,"Los Angeles, CA",34.0522,-87.6298,2005,Neurology,Clinical Phase II
+Company 211,Dr. Sandra Smith,Princeton University,"Cambridge, MA",42.2808,-71.0942,2008,Infectious Diseases,Clinical Phase I
+Company 212,Dr. Michael Morgan,Yale University,"New Haven, CT",42.2808,-118.2437,2002,Cardiology,Clinical Phase I
+Company 213,Dr. Michael Johnson,Caltech,"Palo Alto, CA",34.0522,-71.0942,2020,Cardiology,Market-ready
+Company 214,Dr. David Lee,UC Berkeley,"New Haven, CT",34.1478,-122.2727,2011,Infectious Diseases,Clinical Phase I
+Company 215,Dr. Rahul Lee,University of Michigan,"Chicago, IL",41.3083,-74.6592,2008,Immunology,Clinical Phase III
+Company 216,Dr. David Wilson,MIT,"Chicago, IL",34.1478,-72.9279,2002,Cardiology,Preclinical
+Company 217,Dr. Laura Wilson,UC Berkeley,"Cambridge, MA",41.3083,-122.2727,2011,Infectious Diseases,Clinical Phase I
+Company 218,Dr. David Morgan,Stanford University,"Ann Arbor, MI",40.3487,-87.6298,2021,Infectious Diseases,Market-ready
+Company 219,Dr. Rahul Lee,Princeton University,"Pasadena, CA",42.2808,-122.143,2020,Gene Therapy,Clinical Phase III
+Company 220,Dr. Emily Garcia,University of Michigan,"Chicago, IL",42.2808,-74.6592,2005,Infectious Diseases,Clinical Phase III
+Company 221,Dr. Sandra Morgan,UC Berkeley,"Pasadena, CA",37.4419,-72.9279,2001,Neurology,Clinical Phase III
+Company 222,Dr. Rahul Garcia,UCLA,"Pasadena, CA",42.3601,-71.1097,2012,Endocrinology,Clinical Phase III
+Company 223,Dr. Laura Brown,Harvard University,"Boston, MA",40.3487,-122.143,2020,Ophthalmology,Clinical Phase III
+Company 224,Dr. David Johnson,Yale University,"Cambridge, MA",37.8716,-122.2727,2009,Rare Diseases,Clinical Phase III
+Company 225,Dr. James Wilson,University of Chicago,"Palo Alto, CA",37.8716,-118.2437,2023,Gene Therapy,Preclinical
+Company 226,Dr. Rahul Johnson,Princeton University,"Cambridge, MA",41.3083,-122.143,2022,Endocrinology,Preclinical
+Company 227,Dr. James Smith,Princeton University,"Ann Arbor, MI",41.8781,-72.9279,2007,Immunology,Market-ready
+Company 228,Dr. Sandra Morgan,University of Chicago,"Los Angeles, CA",42.2808,-71.0942,2013,Oncology,Clinical Phase I
+Company 229,Dr. Laura Morgan,Yale University,"Chicago, IL",42.3736,-71.0942,2020,Immunology,Clinical Phase II
+Company 230,Dr. Sophia Wilson,Stanford University,"Princeton, NJ",42.2808,-71.0942,2002,Neurology,Preclinical
+Company 231,Dr. Michael Brown,Yale University,"Boston, MA",37.4419,-122.2727,2022,Infectious Diseases,Clinical Phase II
+Company 232,Dr. Laura Desai,Caltech,"Princeton, NJ",41.3083,-72.9279,2003,Neurology,Market-ready
+Company 233,Dr. David Garcia,Yale University,"Berkeley, CA",34.1478,-71.1097,2000,Immunology,Clinical Phase I
+Company 234,Dr. David Desai,Harvard University,"Palo Alto, CA",42.2808,-83.743,2006,Ophthalmology,Preclinical
+Company 235,Dr. Sandra Wilson,UC Berkeley,"Ann Arbor, MI",34.1478,-118.1445,2015,Endocrinology,Preclinical
+Company 236,Dr. Sandra Johnson,UCLA,"Los Angeles, CA",34.0522,-118.1445,2002,Immunology,Clinical Phase I
+Company 237,Dr. David Johnson,University of Chicago,"Ann Arbor, MI",34.0522,-118.2437,2004,Cardiology,Clinical Phase I
+Company 238,Dr. Sandra Wilson,Stanford University,"Palo Alto, CA",40.3487,-72.9279,2018,Infectious Diseases,Clinical Phase II
+Company 239,Dr. Emily Smith,Princeton University,"Cambridge, MA",42.2808,-74.6592,2007,Neurology,Clinical Phase II
+Company 240,Dr. Laura Johnson,Stanford University,"Los Angeles, CA",40.3487,-122.2727,2016,Gene Therapy,Clinical Phase I
+Company 241,Dr. Emily Garcia,University of Chicago,"Berkeley, CA",42.2808,-122.2727,2021,Cardiology,Preclinical
+Company 242,Dr. James Lee,University of Michigan,"Boston, MA",41.8781,-87.6298,2014,Gene Therapy,Clinical Phase III
+Company 243,Dr. Laura Wilson,Harvard University,"Pasadena, CA",37.4419,-71.0942,2000,Cardiology,Market-ready
+Company 244,Dr. Alice Lee,Harvard University,"Palo Alto, CA",42.3601,-122.2727,2000,Immunology,Market-ready
+Company 245,Dr. Sandra Smith,Yale University,"Palo Alto, CA",42.3601,-122.143,2022,Immunology,Clinical Phase II
+Company 246,Dr. Laura Garcia,University of Chicago,"Pasadena, CA",34.0522,-71.0942,2010,Gene Therapy,Clinical Phase I
+Company 247,Dr. James Brown,MIT,"Boston, MA",34.0522,-83.743,2003,Infectious Diseases,Preclinical
+Company 248,Dr. John Davis,University of Michigan,"Princeton, NJ",42.3736,-118.2437,2013,Gene Therapy,Preclinical
+Company 249,Dr. John Smith,University of Chicago,"Cambridge, MA",40.3487,-122.143,2022,Oncology,Clinical Phase II
+Company 250,Dr. Sophia Davis,Stanford University,"Princeton, NJ",34.0522,-122.143,2004,Ophthalmology,Clinical Phase II
+Company 251,Dr. Emily Desai,Caltech,"Boston, MA",34.0522,-83.743,2015,Cardiology,Clinical Phase III
+Company 252,Dr. Sandra Wilson,University of Chicago,"Los Angeles, CA",42.3736,-87.6298,2002,Oncology,Market-ready
+Company 253,Dr. James Brown,University of Michigan,"Chicago, IL",37.4419,-122.2727,2007,Cardiology,Market-ready
+Company 254,Dr. Rahul Smith,University of Chicago,"Ann Arbor, MI",37.8716,-87.6298,2012,Dermatology,Market-ready
+Company 255,Dr. Sandra Smith,University of Chicago,"Berkeley, CA",41.3083,-122.2727,2002,Infectious Diseases,Clinical Phase II
+Company 256,Dr. Michael Chen,Yale University,"Cambridge, MA",34.1478,-72.9279,2023,Oncology,Clinical Phase III
+Company 257,Dr. Alice Morgan,MIT,"Boston, MA",37.4419,-72.9279,2003,Cardiology,Clinical Phase I
+Company 258,Dr. Michael Davis,University of Michigan,"New Haven, CT",41.8781,-122.143,2003,Rare Diseases,Clinical Phase II
+Company 259,Dr. James Desai,Harvard University,"Los Angeles, CA",42.3736,-122.143,2010,Cardiology,Clinical Phase III
+Company 260,Dr. John Johnson,UCLA,"Boston, MA",40.3487,-71.1097,2011,Gene Therapy,Clinical Phase II
+Company 261,Dr. James Smith,MIT,"Berkeley, CA",41.8781,-83.743,2009,Gene Therapy,Clinical Phase I
+Company 262,Dr. Laura Davis,MIT,"Chicago, IL",37.8716,-118.1445,2004,Dermatology,Clinical Phase I
+Company 263,Dr. Laura Smith,Caltech,"Palo Alto, CA",34.1478,-72.9279,2012,Endocrinology,Clinical Phase III
+Company 264,Dr. Emily Morgan,UCLA,"Princeton, NJ",34.1478,-83.743,2004,Cardiology,Preclinical
+Company 265,Dr. Rahul Johnson,MIT,"New Haven, CT",34.0522,-122.143,2020,Gene Therapy,Clinical Phase I
+Company 266,Dr. Michael Chen,Stanford University,"Palo Alto, CA",42.2808,-87.6298,2021,Ophthalmology,Clinical Phase I
+Company 267,Dr. Sophia Davis,Harvard University,"Princeton, NJ",41.3083,-122.143,2004,Infectious Diseases,Clinical Phase I
+Company 268,Dr. Alice Wilson,MIT,"Princeton, NJ",42.2808,-87.6298,2002,Cardiology,Clinical Phase I
+Company 269,Dr. Michael Desai,Harvard University,"Princeton, NJ",42.3736,-122.2727,2016,Neurology,Preclinical
+Company 270,Dr. John Chen,Yale University,"Princeton, NJ",37.4419,-118.1445,2018,Infectious Diseases,Market-ready
+Company 271,Dr. John Wilson,University of Chicago,"Princeton, NJ",42.3601,-74.6592,2000,Gene Therapy,Market-ready
+Company 272,Dr. Sophia Garcia,University of Michigan,"Cambridge, MA",34.0522,-74.6592,2019,Dermatology,Clinical Phase I
+Company 273,Dr. David Davis,Yale University,"Berkeley, CA",40.3487,-74.6592,2020,Rare Diseases,Preclinical
+Company 274,Dr. James Wilson,Harvard University,"Pasadena, CA",42.3736,-122.2727,2005,Rare Diseases,Clinical Phase II
+Company 275,Dr. Laura Wilson,MIT,"Cambridge, MA",41.8781,-122.143,2014,Gene Therapy,Preclinical
+Company 276,Dr. John Chen,UCLA,"Berkeley, CA",37.8716,-71.1097,2011,Gene Therapy,Clinical Phase III
+Company 277,Dr. John Davis,Harvard University,"New Haven, CT",41.8781,-122.143,2023,Immunology,Clinical Phase II
+Company 278,Dr. Sandra Smith,MIT,"Ann Arbor, MI",42.3736,-72.9279,2006,Infectious Diseases,Market-ready
+Company 279,Dr. Sandra Wilson,UC Berkeley,"Cambridge, MA",37.8716,-74.6592,2020,Dermatology,Market-ready
+Company 280,Dr. John Smith,Caltech,"New Haven, CT",34.1478,-122.143,2023,Infectious Diseases,Preclinical
+Company 281,Dr. Sandra Davis,Stanford University,"Palo Alto, CA",41.8781,-71.0942,2004,Immunology,Market-ready
+Company 282,Dr. Rahul Lee,Stanford University,"New Haven, CT",42.2808,-71.0942,2013,Gene Therapy,Preclinical
+Company 283,Dr. Michael Lee,Princeton University,"Los Angeles, CA",42.3736,-72.9279,2019,Infectious Diseases,Preclinical
+Company 284,Dr. David Brown,Princeton University,"Palo Alto, CA",42.3736,-122.2727,2021,Cardiology,Preclinical
+Company 285,Dr. Sophia Desai,Yale University,"Boston, MA",42.2808,-71.1097,2014,Infectious Diseases,Preclinical
+Company 286,Dr. Emily Chen,Caltech,"New Haven, CT",42.3601,-83.743,2006,Neurology,Preclinical
+Company 287,Dr. Michael Johnson,University of Michigan,"Chicago, IL",42.3601,-122.2727,2002,Infectious Diseases,Clinical Phase III
+Company 288,Dr. Emily Smith,Stanford University,"Cambridge, MA",37.4419,-122.2727,2003,Oncology,Clinical Phase III
+Company 289,Dr. Rahul Johnson,Princeton University,"New Haven, CT",41.3083,-122.143,2004,Endocrinology,Clinical Phase III
+Company 290,Dr. Laura Brown,Caltech,"Princeton, NJ",42.2808,-74.6592,2003,Gene Therapy,Preclinical
+Company 291,Dr. Sophia Davis,University of Chicago,"New Haven, CT",34.1478,-118.2437,2018,Cardiology,Market-ready
+Company 292,Dr. Laura Morgan,University of Michigan,"Chicago, IL",40.3487,-71.0942,2023,Oncology,Clinical Phase II
+Company 293,Dr. Michael Johnson,Harvard University,"Pasadena, CA",40.3487,-74.6592,2012,Neurology,Clinical Phase III
+Company 294,Dr. Laura Garcia,Caltech,"Pasadena, CA",34.1478,-87.6298,2011,Cardiology,Clinical Phase I
+Company 295,Dr. Alice Garcia,UCLA,"Chicago, IL",41.8781,-122.2727,2013,Cardiology,Clinical Phase I
+Company 296,Dr. Laura Davis,Princeton University,"Chicago, IL",40.3487,-87.6298,2010,Gene Therapy,Preclinical
+Company 297,Dr. Alice Brown,Harvard University,"Palo Alto, CA",34.1478,-87.6298,2004,Oncology,Clinical Phase II
+Company 298,Dr. Sandra Johnson,Harvard University,"Pasadena, CA",42.2808,-83.743,2007,Cardiology,Clinical Phase III
+Company 299,Dr. Laura Wilson,Princeton University,"Cambridge, MA",34.0522,-83.743,2008,Endocrinology,Preclinical
+Company 300,Dr. Sophia Garcia,UC Berkeley,"Ann Arbor, MI",37.4419,-83.743,2020,Immunology,Market-ready
+Company 301,Dr. Michael Davis,UC Berkeley,"Los Angeles, CA",41.3083,-118.1445,2002,Rare Diseases,Clinical Phase II
+Company 302,Dr. Michael Lee,Stanford University,"Cambridge, MA",41.8781,-87.6298,2007,Neurology,Market-ready
+Company 303,Dr. Laura Davis,Princeton University,"Los Angeles, CA",34.1478,-122.143,2017,Neurology,Market-ready
+Company 304,Dr. Alice Johnson,Princeton University,"Cambridge, MA",42.2808,-87.6298,2019,Oncology,Clinical Phase I
+Company 305,Dr. David Johnson,Stanford University,"New Haven, CT",41.8781,-122.2727,2019,Cardiology,Clinical Phase III
+Company 306,Dr. Emily Davis,Stanford University,"Ann Arbor, MI",42.3736,-83.743,2023,Rare Diseases,Preclinical
+Company 307,Dr. Emily Garcia,Yale University,"Princeton, NJ",41.3083,-122.2727,2019,Oncology,Market-ready
+Company 308,Dr. Sophia Morgan,University of Michigan,"Berkeley, CA",42.2808,-83.743,2009,Immunology,Market-ready
+Company 309,Dr. Laura Garcia,MIT,"Princeton, NJ",42.3601,-118.1445,2022,Immunology,Preclinical
+Company 310,Dr. James Morgan,Stanford University,"Pasadena, CA",34.0522,-122.143,2000,Dermatology,Clinical Phase II
+Company 311,Dr. Rahul Johnson,MIT,"Ann Arbor, MI",41.8781,-72.9279,2021,Endocrinology,Preclinical
+Company 312,Dr. Emily Davis,UCLA,"Cambridge, MA",42.3601,-83.743,2009,Dermatology,Preclinical
+Company 313,Dr. Emily Morgan,University of Michigan,"Los Angeles, CA",37.8716,-118.2437,2006,Gene Therapy,Clinical Phase III
+Company 314,Dr. Sandra Johnson,University of Michigan,"Ann Arbor, MI",37.8716,-118.1445,2016,Dermatology,Clinical Phase I
+Company 315,Dr. David Smith,Caltech,"New Haven, CT",40.3487,-71.0942,2019,Endocrinology,Market-ready
+Company 316,Dr. John Brown,Yale University,"Cambridge, MA",41.3083,-71.0942,2016,Dermatology,Clinical Phase I
+Company 317,Dr. David Johnson,UC Berkeley,"New Haven, CT",37.4419,-118.2437,2006,Cardiology,Clinical Phase II
+Company 318,Dr. Sandra Johnson,University of Michigan,"Ann Arbor, MI",37.8716,-118.1445,2023,Ophthalmology,Market-ready
+Company 319,Dr. Sandra Desai,Caltech,"Palo Alto, CA",37.4419,-122.143,2012,Dermatology,Clinical Phase I
+Company 320,Dr. John Morgan,UCLA,"New Haven, CT",41.8781,-87.6298,2009,Oncology,Clinical Phase II
+Company 321,Dr. Sophia Morgan,Princeton University,"Berkeley, CA",41.8781,-83.743,2020,Endocrinology,Clinical Phase III
+Company 322,Dr. David Smith,Caltech,"Berkeley, CA",34.1478,-71.1097,2001,Infectious Diseases,Clinical Phase II
+Company 323,Dr. Rahul Morgan,University of Michigan,"Pasadena, CA",41.3083,-122.2727,2007,Neurology,Clinical Phase I
+Company 324,Dr. Alice Smith,UC Berkeley,"Berkeley, CA",34.0522,-72.9279,2015,Gene Therapy,Preclinical
+Company 325,Dr. Michael Morgan,Stanford University,"New Haven, CT",42.3736,-71.0942,2012,Endocrinology,Market-ready
+Company 326,Dr. James Chen,Stanford University,"Chicago, IL",42.2808,-122.2727,2003,Oncology,Clinical Phase III
+Company 327,Dr. Michael Chen,Caltech,"Pasadena, CA",37.8716,-72.9279,2007,Immunology,Clinical Phase I
+Company 328,Dr. John Desai,University of Chicago,"Pasadena, CA",34.0522,-118.1445,2015,Rare Diseases,Clinical Phase III
+Company 329,Dr. James Smith,UC Berkeley,"New Haven, CT",34.1478,-72.9279,2020,Immunology,Clinical Phase II
+Company 330,Dr. John Lee,Princeton University,"Princeton, NJ",42.2808,-122.2727,2019,Cardiology,Clinical Phase I
+Company 331,Dr. David Chen,University of Chicago,"Ann Arbor, MI",41.3083,-71.0942,2002,Rare Diseases,Preclinical
+Company 332,Dr. James Garcia,UC Berkeley,"Palo Alto, CA",42.2808,-87.6298,2016,Oncology,Preclinical
+Company 333,Dr. Rahul Chen,Yale University,"Berkeley, CA",42.3601,-83.743,2000,Oncology,Preclinical
+Company 334,Dr. Sandra Desai,Princeton University,"Palo Alto, CA",42.3601,-72.9279,2011,Cardiology,Preclinical
+Company 335,Dr. James Morgan,UC Berkeley,"Berkeley, CA",42.3736,-71.0942,2010,Gene Therapy,Market-ready
+Company 336,Dr. Sandra Garcia,UC Berkeley,"Boston, MA",42.2808,-118.2437,2004,Dermatology,Clinical Phase III
+Company 337,Dr. Laura Johnson,Stanford University,"Chicago, IL",41.3083,-118.1445,2012,Gene Therapy,Clinical Phase I
+Company 338,Dr. Michael Desai,Yale University,"Princeton, NJ",34.0522,-72.9279,2018,Oncology,Preclinical
+Company 339,Dr. James Smith,UC Berkeley,"Ann Arbor, MI",42.3736,-87.6298,2013,Ophthalmology,Market-ready
+Company 340,Dr. Rahul Lee,Yale University,"New Haven, CT",37.4419,-122.2727,2011,Oncology,Preclinical
+Company 341,Dr. James Desai,UCLA,"Palo Alto, CA",34.1478,-72.9279,2017,Cardiology,Preclinical
+Company 342,Dr. James Morgan,Yale University,"Palo Alto, CA",42.2808,-83.743,2021,Infectious Diseases,Clinical Phase II
+Company 343,Dr. David Wilson,MIT,"New Haven, CT",41.8781,-118.1445,2005,Infectious Diseases,Clinical Phase I
+Company 344,Dr. Laura Brown,Princeton University,"Ann Arbor, MI",37.8716,-71.0942,2015,Endocrinology,Clinical Phase III
+Company 345,Dr. Rahul Wilson,Stanford University,"Ann Arbor, MI",40.3487,-118.2437,2002,Immunology,Clinical Phase II
+Company 346,Dr. David Morgan,Stanford University,"Pasadena, CA",42.2808,-72.9279,2000,Dermatology,Clinical Phase II
+Company 347,Dr. Laura Davis,Stanford University,"Boston, MA",37.4419,-122.2727,2018,Gene Therapy,Clinical Phase III
+Company 348,Dr. Rahul Johnson,Stanford University,"Berkeley, CA",42.2808,-83.743,2002,Infectious Diseases,Preclinical
+Company 349,Dr. David Davis,UC Berkeley,"Chicago, IL",41.3083,-122.2727,2000,Dermatology,Preclinical
+Company 350,Dr. Emily Johnson,Stanford University,"Pasadena, CA",42.3601,-72.9279,2008,Gene Therapy,Clinical Phase I
+Company 351,Dr. Emily Wilson,Yale University,"New Haven, CT",34.0522,-122.143,2006,Immunology,Preclinical
+Company 352,Dr. Sandra Garcia,MIT,"Pasadena, CA",34.0522,-71.0942,2001,Oncology,Clinical Phase II
+Company 353,Dr. Sophia Davis,Caltech,"Cambridge, MA",41.8781,-118.2437,2001,Cardiology,Clinical Phase II
+Company 354,Dr. John Johnson,Harvard University,"New Haven, CT",34.1478,-71.0942,2012,Neurology,Clinical Phase II
+Company 355,Dr. James Lee,University of Michigan,"Boston, MA",41.8781,-74.6592,2016,Neurology,Clinical Phase III
+Company 356,Dr. David Smith,Caltech,"Berkeley, CA",34.1478,-87.6298,2009,Dermatology,Preclinical
+Company 357,Dr. Rahul Lee,Caltech,"Ann Arbor, MI",42.3601,-74.6592,2020,Ophthalmology,Preclinical
+Company 358,Dr. John Smith,Yale University,"Cambridge, MA",41.3083,-71.1097,2022,Ophthalmology,Preclinical
+Company 359,Dr. John Garcia,Stanford University,"Palo Alto, CA",37.8716,-118.1445,2016,Rare Diseases,Preclinical
+Company 360,Dr. James Johnson,UC Berkeley,"Berkeley, CA",40.3487,-118.2437,2013,Rare Diseases,Clinical Phase I
+Company 361,Dr. David Morgan,Yale University,"New Haven, CT",34.1478,-118.1445,2013,Rare Diseases,Clinical Phase I
+Company 362,Dr. John Brown,UC Berkeley,"Princeton, NJ",40.3487,-83.743,2022,Neurology,Clinical Phase II
+Company 363,Dr. Emily Davis,Harvard University,"Chicago, IL",34.0522,-122.143,2012,Oncology,Clinical Phase II
+Company 364,Dr. Michael Brown,UCLA,"Cambridge, MA",34.0522,-122.2727,2002,Immunology,Clinical Phase III
+Company 365,Dr. Sandra Brown,University of Michigan,"Chicago, IL",42.3601,-118.1445,2020,Dermatology,Market-ready
+Company 366,Dr. Sandra Garcia,UCLA,"Boston, MA",37.4419,-87.6298,2017,Infectious Diseases,Clinical Phase II
+Company 367,Dr. Sandra Wilson,Yale University,"Pasadena, CA",40.3487,-83.743,2017,Ophthalmology,Preclinical
+Company 368,Dr. Alice Wilson,Stanford University,"Cambridge, MA",34.1478,-118.2437,2019,Endocrinology,Clinical Phase II
+Company 369,Dr. Michael Desai,University of Michigan,"Chicago, IL",40.3487,-83.743,2004,Gene Therapy,Clinical Phase II
+Company 370,Dr. Michael Johnson,Caltech,"Palo Alto, CA",41.3083,-87.6298,2008,Immunology,Clinical Phase I
+Company 371,Dr. John Wilson,University of Chicago,"Los Angeles, CA",37.4419,-122.2727,2002,Cardiology,Preclinical
+Company 372,Dr. Michael Davis,MIT,"New Haven, CT",42.3601,-122.2727,2009,Immunology,Clinical Phase III
+Company 373,Dr. John Davis,Princeton University,"New Haven, CT",37.4419,-122.143,2002,Dermatology,Clinical Phase III
+Company 374,Dr. Alice Desai,University of Chicago,"Berkeley, CA",42.3736,-118.1445,2016,Oncology,Clinical Phase III
+Company 375,Dr. Sandra Smith,Stanford University,"Boston, MA",40.3487,-71.0942,2006,Rare Diseases,Clinical Phase II
+Company 376,Dr. Laura Smith,Yale University,"Cambridge, MA",40.3487,-118.1445,2004,Infectious Diseases,Clinical Phase III
+Company 377,Dr. Sandra Garcia,Caltech,"Boston, MA",34.0522,-71.0942,2017,Endocrinology,Clinical Phase III
+Company 378,Dr. David Davis,Yale University,"Chicago, IL",42.3601,-122.2727,2010,Neurology,Clinical Phase III
+Company 379,Dr. Sophia Wilson,Stanford University,"Pasadena, CA",40.3487,-74.6592,2012,Oncology,Clinical Phase I
+Company 380,Dr. David Johnson,UCLA,"New Haven, CT",41.8781,-74.6592,2018,Immunology,Preclinical
+Company 381,Dr. Sophia Brown,University of Michigan,"New Haven, CT",41.8781,-122.2727,2020,Neurology,Clinical Phase I
+Company 382,Dr. David Davis,University of Chicago,"Pasadena, CA",41.3083,-74.6592,2020,Gene Therapy,Preclinical
+Company 383,Dr. Sandra Lee,UC Berkeley,"Palo Alto, CA",40.3487,-71.1097,2021,Rare Diseases,Clinical Phase I
+Company 384,Dr. Sandra Smith,Caltech,"Boston, MA",34.1478,-72.9279,2020,Oncology,Preclinical
+Company 385,Dr. Rahul Smith,University of Michigan,"Chicago, IL",37.4419,-74.6592,2002,Endocrinology,Clinical Phase III
+Company 386,Dr. David Desai,University of Michigan,"Princeton, NJ",34.0522,-71.0942,2009,Oncology,Market-ready
+Company 387,Dr. Sophia Chen,Caltech,"New Haven, CT",42.3601,-122.143,2022,Rare Diseases,Clinical Phase III
+Company 388,Dr. Michael Smith,Harvard University,"Berkeley, CA",34.1478,-122.143,2013,Dermatology,Market-ready
+Company 389,Dr. John Lee,University of Michigan,"New Haven, CT",37.4419,-118.2437,2023,Endocrinology,Clinical Phase III
+Company 390,Dr. James Wilson,UCLA,"Ann Arbor, MI",40.3487,-72.9279,2007,Endocrinology,Clinical Phase I
+Company 391,Dr. James Lee,Harvard University,"Los Angeles, CA",34.1478,-87.6298,2001,Rare Diseases,Market-ready
+Company 392,Dr. Rahul Smith,MIT,"Palo Alto, CA",42.3736,-71.0942,2007,Oncology,Clinical Phase III
+Company 393,Dr. Sandra Smith,UCLA,"Cambridge, MA",34.1478,-71.1097,2002,Ophthalmology,Clinical Phase II
+Company 394,Dr. David Chen,UCLA,"Chicago, IL",41.8781,-71.0942,2013,Dermatology,Market-ready
+Company 395,Dr. Sandra Morgan,Yale University,"Pasadena, CA",40.3487,-122.2727,2003,Gene Therapy,Preclinical
+Company 396,Dr. Sophia Chen,Yale University,"Princeton, NJ",37.8716,-72.9279,2014,Cardiology,Clinical Phase I
+Company 397,Dr. Sandra Morgan,Harvard University,"Berkeley, CA",34.1478,-122.2727,2019,Dermatology,Clinical Phase III
+Company 398,Dr. Alice Wilson,MIT,"Princeton, NJ",42.3601,-122.143,2019,Cardiology,Clinical Phase III
+Company 399,Dr. Sandra Chen,MIT,"Palo Alto, CA",42.3736,-71.1097,2001,Gene Therapy,Preclinical
+Company 400,Dr. John Desai,University of Michigan,"Ann Arbor, MI",40.3487,-122.143,2009,Endocrinology,Clinical Phase III
+Company 401,Dr. Alice Garcia,UC Berkeley,"Ann Arbor, MI",34.1478,-83.743,2021,Immunology,Clinical Phase III
+Company 402,Dr. Sandra Davis,Stanford University,"Pasadena, CA",42.2808,-118.2437,2023,Rare Diseases,Preclinical
+Company 403,Dr. John Davis,MIT,"Los Angeles, CA",42.3736,-74.6592,2021,Endocrinology,Preclinical
+Company 404,Dr. David Chen,Harvard University,"Boston, MA",37.8716,-74.6592,2023,Endocrinology,Clinical Phase II
+Company 405,Dr. Alice Lee,Stanford University,"Ann Arbor, MI",42.2808,-74.6592,2005,Rare Diseases,Clinical Phase II
+Company 406,Dr. John Desai,Caltech,"Pasadena, CA",42.3736,-71.0942,2003,Neurology,Preclinical
+Company 407,Dr. Rahul Johnson,University of Chicago,"Los Angeles, CA",34.0522,-71.0942,2000,Rare Diseases,Market-ready
+Company 408,Dr. John Desai,UC Berkeley,"Palo Alto, CA",42.3601,-118.2437,2022,Infectious Diseases,Market-ready
+Company 409,Dr. James Morgan,UC Berkeley,"Chicago, IL",37.4419,-118.1445,2004,Immunology,Market-ready
+Company 410,Dr. Emily Chen,Princeton University,"Palo Alto, CA",42.3736,-72.9279,2022,Gene Therapy,Clinical Phase I
+Company 411,Dr. James Lee,Yale University,"Pasadena, CA",37.8716,-122.2727,2000,Oncology,Clinical Phase II
+Company 412,Dr. Rahul Smith,MIT,"Chicago, IL",41.3083,-118.1445,2005,Oncology,Market-ready
+Company 413,Dr. Rahul Wilson,Yale University,"Pasadena, CA",37.4419,-71.0942,2015,Cardiology,Market-ready
+Company 414,Dr. Laura Garcia,UCLA,"Palo Alto, CA",40.3487,-74.6592,2011,Ophthalmology,Market-ready
+Company 415,Dr. James Garcia,Yale University,"New Haven, CT",42.3736,-87.6298,2016,Dermatology,Preclinical
+Company 416,Dr. Michael Wilson,University of Michigan,"New Haven, CT",37.4419,-72.9279,2016,Infectious Diseases,Clinical Phase III
+Company 417,Dr. Laura Davis,University of Michigan,"Palo Alto, CA",34.1478,-71.1097,2023,Neurology,Clinical Phase I
+Company 418,Dr. John Lee,Stanford University,"Princeton, NJ",42.3736,-118.1445,2008,Ophthalmology,Clinical Phase III
+Company 419,Dr. James Johnson,Harvard University,"Princeton, NJ",42.2808,-122.143,2005,Immunology,Clinical Phase II
+Company 420,Dr. Sandra Garcia,MIT,"Ann Arbor, MI",37.8716,-83.743,2011,Dermatology,Clinical Phase III
+Company 421,Dr. James Morgan,MIT,"Ann Arbor, MI",41.8781,-122.2727,2004,Ophthalmology,Clinical Phase I
+Company 422,Dr. James Desai,University of Michigan,"Chicago, IL",41.8781,-122.143,2023,Dermatology,Market-ready
+Company 423,Dr. Michael Smith,Harvard University,"Chicago, IL",37.8716,-122.143,2008,Ophthalmology,Market-ready
+Company 424,Dr. Sandra Desai,Stanford University,"New Haven, CT",41.3083,-87.6298,2023,Endocrinology,Preclinical
+Company 425,Dr. Emily Smith,UCLA,"Princeton, NJ",37.8716,-72.9279,2003,Infectious Diseases,Preclinical
+Company 426,Dr. Emily Wilson,Princeton University,"Los Angeles, CA",34.1478,-83.743,2000,Neurology,Clinical Phase I
+Company 427,Dr. Rahul Chen,UC Berkeley,"Palo Alto, CA",37.8716,-72.9279,2010,Endocrinology,Market-ready
+Company 428,Dr. Alice Johnson,Princeton University,"Los Angeles, CA",37.8716,-118.1445,2013,Rare Diseases,Clinical Phase III
+Company 429,Dr. John Garcia,University of Michigan,"Chicago, IL",37.4419,-118.2437,2008,Oncology,Clinical Phase III
+Company 430,Dr. John Lee,Princeton University,"Los Angeles, CA",40.3487,-74.6592,2016,Dermatology,Clinical Phase I
+Company 431,Dr. Alice Smith,UC Berkeley,"Pasadena, CA",41.8781,-118.1445,2002,Immunology,Preclinical
+Company 432,Dr. Sandra Lee,UCLA,"Cambridge, MA",41.3083,-72.9279,2008,Ophthalmology,Clinical Phase III
+Company 433,Dr. John Desai,University of Chicago,"New Haven, CT",37.4419,-118.1445,2022,Infectious Diseases,Clinical Phase II
+Company 434,Dr. Michael Lee,Caltech,"Princeton, NJ",41.8781,-122.143,2018,Ophthalmology,Clinical Phase I
+Company 435,Dr. James Smith,Stanford University,"Boston, MA",40.3487,-118.1445,2020,Infectious Diseases,Clinical Phase II
+Company 436,Dr. Laura Desai,Yale University,"New Haven, CT",37.8716,-118.1445,2002,Infectious Diseases,Clinical Phase II
+Company 437,Dr. Sophia Smith,UC Berkeley,"Pasadena, CA",40.3487,-72.9279,2015,Gene Therapy,Preclinical
+Company 438,Dr. Emily Lee,Stanford University,"Princeton, NJ",41.8781,-122.143,2014,Oncology,Market-ready
+Company 439,Dr. Emily Desai,UCLA,"Chicago, IL",34.0522,-83.743,2016,Endocrinology,Clinical Phase I
+Company 440,Dr. Alice Chen,University of Michigan,"Boston, MA",42.3736,-71.1097,2011,Gene Therapy,Market-ready
+Company 441,Dr. Sandra Garcia,Princeton University,"Palo Alto, CA",42.3736,-122.143,2001,Gene Therapy,Clinical Phase III
+Company 442,Dr. James Lee,Caltech,"Palo Alto, CA",42.2808,-71.1097,2015,Neurology,Clinical Phase III
+Company 443,Dr. John Desai,UCLA,"Ann Arbor, MI",34.1478,-72.9279,2018,Neurology,Clinical Phase I
+Company 444,Dr. John Lee,Harvard University,"Berkeley, CA",40.3487,-122.143,2005,Gene Therapy,Preclinical
+Company 445,Dr. Laura Lee,University of Chicago,"Pasadena, CA",37.8716,-87.6298,2011,Immunology,Clinical Phase III
+Company 446,Dr. Sophia Wilson,UC Berkeley,"Princeton, NJ",40.3487,-118.2437,2005,Dermatology,Clinical Phase III
+Company 447,Dr. John Davis,University of Michigan,"Berkeley, CA",37.8716,-74.6592,2008,Oncology,Market-ready
+Company 448,Dr. Rahul Garcia,Harvard University,"Berkeley, CA",34.0522,-87.6298,2003,Dermatology,Clinical Phase III
+Company 449,Dr. Alice Johnson,Harvard University,"Boston, MA",34.0522,-74.6592,2018,Neurology,Preclinical
+Company 450,Dr. David Garcia,University of Chicago,"Palo Alto, CA",34.1478,-87.6298,2021,Gene Therapy,Clinical Phase III
+Company 451,Dr. Sandra Morgan,UCLA,"Chicago, IL",41.3083,-72.9279,2023,Infectious Diseases,Clinical Phase III
+Company 452,Dr. Rahul Smith,University of Chicago,"New Haven, CT",41.8781,-74.6592,2003,Rare Diseases,Clinical Phase II
+Company 453,Dr. James Garcia,MIT,"Palo Alto, CA",42.2808,-122.2727,2007,Cardiology,Preclinical
+Company 454,Dr. Alice Lee,UCLA,"Pasadena, CA",34.0522,-118.1445,2023,Oncology,Clinical Phase III
+Company 455,Dr. James Morgan,UCLA,"Pasadena, CA",37.4419,-118.2437,2016,Oncology,Preclinical
+Company 456,Dr. Emily Davis,Yale University,"Princeton, NJ",42.3736,-122.2727,2000,Dermatology,Preclinical
+Company 457,Dr. Sophia Davis,Stanford University,"New Haven, CT",37.8716,-87.6298,2001,Ophthalmology,Clinical Phase III
+Company 458,Dr. Sandra Chen,Harvard University,"Chicago, IL",42.3601,-87.6298,2000,Dermatology,Clinical Phase III
+Company 459,Dr. James Johnson,Princeton University,"Princeton, NJ",42.3736,-122.2727,2007,Ophthalmology,Preclinical
+Company 460,Dr. John Desai,UC Berkeley,"Boston, MA",34.0522,-122.2727,2001,Cardiology,Market-ready
+Company 461,Dr. John Brown,MIT,"Chicago, IL",34.0522,-71.1097,2015,Rare Diseases,Market-ready
+Company 462,Dr. Laura Brown,MIT,"Chicago, IL",37.4419,-71.0942,2011,Ophthalmology,Preclinical
+Company 463,Dr. David Desai,UC Berkeley,"Berkeley, CA",37.4419,-118.2437,2012,Endocrinology,Preclinical
+Company 464,Dr. Emily Brown,Caltech,"Princeton, NJ",42.3601,-118.1445,2004,Immunology,Market-ready
+Company 465,Dr. Laura Davis,University of Chicago,"Cambridge, MA",42.3736,-71.0942,2005,Infectious Diseases,Market-ready
+Company 466,Dr. Sandra Johnson,Caltech,"Palo Alto, CA",34.1478,-122.2727,2001,Infectious Diseases,Clinical Phase II
+Company 467,Dr. Sophia Morgan,Caltech,"Princeton, NJ",42.3601,-122.2727,2017,Ophthalmology,Market-ready
+Company 468,Dr. John Desai,Yale University,"Chicago, IL",42.3736,-71.1097,2022,Dermatology,Market-ready
+Company 469,Dr. David Lee,Stanford University,"Ann Arbor, MI",34.0522,-118.2437,2023,Oncology,Clinical Phase I
+Company 470,Dr. David Desai,UC Berkeley,"Chicago, IL",42.3736,-118.2437,2020,Dermatology,Clinical Phase III
+Company 471,Dr. Laura Wilson,Harvard University,"Chicago, IL",37.8716,-83.743,2013,Gene Therapy,Clinical Phase II
+Company 472,Dr. Alice Wilson,UC Berkeley,"New Haven, CT",34.1478,-122.143,2007,Gene Therapy,Clinical Phase II
+Company 473,Dr. John Johnson,Harvard University,"Los Angeles, CA",34.0522,-71.0942,2010,Infectious Diseases,Preclinical
+Company 474,Dr. Alice Smith,Princeton University,"New Haven, CT",40.3487,-122.143,2007,Infectious Diseases,Clinical Phase I
+Company 475,Dr. Sophia Brown,Stanford University,"Princeton, NJ",34.0522,-74.6592,2013,Infectious Diseases,Clinical Phase III
+Company 476,Dr. James Davis,Yale University,"Ann Arbor, MI",42.3736,-87.6298,2023,Oncology,Clinical Phase II
+Company 477,Dr. John Morgan,University of Michigan,"Palo Alto, CA",41.8781,-72.9279,2010,Oncology,Market-ready
+Company 478,Dr. Michael Lee,UC Berkeley,"Ann Arbor, MI",40.3487,-72.9279,2008,Infectious Diseases,Market-ready
+Company 479,Dr. Sophia Chen,University of Michigan,"Los Angeles, CA",42.2808,-118.2437,2002,Oncology,Market-ready
+Company 480,Dr. Sandra Davis,UC Berkeley,"Princeton, NJ",34.0522,-118.1445,2018,Rare Diseases,Clinical Phase III
+Company 481,Dr. John Desai,UC Berkeley,"Ann Arbor, MI",42.3601,-122.143,2011,Ophthalmology,Clinical Phase II
+Company 482,Dr. Alice Garcia,UCLA,"Chicago, IL",41.3083,-83.743,2003,Cardiology,Clinical Phase III
+Company 483,Dr. Michael Chen,Stanford University,"Ann Arbor, MI",42.3601,-118.1445,2016,Dermatology,Preclinical
+Company 484,Dr. Sandra Wilson,UC Berkeley,"Boston, MA",42.3601,-74.6592,2021,Rare Diseases,Preclinical
+Company 485,Dr. Alice Wilson,Harvard University,"Princeton, NJ",41.3083,-72.9279,2001,Dermatology,Clinical Phase I
+Company 486,Dr. Laura Desai,Yale University,"Palo Alto, CA",34.0522,-71.0942,2005,Endocrinology,Preclinical
+Company 487,Dr. Michael Desai,MIT,"Princeton, NJ",42.2808,-122.2727,2007,Infectious Diseases,Clinical Phase II
+Company 488,Dr. John Desai,University of Michigan,"Chicago, IL",41.8781,-71.0942,2016,Infectious Diseases,Clinical Phase II
+Company 489,Dr. Emily Davis,Princeton University,"Boston, MA",40.3487,-122.2727,2001,Endocrinology,Clinical Phase II
+Company 490,Dr. Sandra Wilson,Yale University,"Boston, MA",34.0522,-71.0942,2012,Immunology,Market-ready
+Company 491,Dr. Sandra Johnson,Stanford University,"Chicago, IL",37.8716,-122.143,2002,Gene Therapy,Market-ready
+Company 492,Dr. John Davis,UC Berkeley,"Chicago, IL",42.2808,-72.9279,2014,Rare Diseases,Clinical Phase II
+Company 493,Dr. Michael Davis,Stanford University,"Boston, MA",42.2808,-72.9279,2009,Dermatology,Preclinical
+Company 494,Dr. Sophia Chen,University of Chicago,"Boston, MA",42.3736,-118.1445,2009,Gene Therapy,Preclinical
+Company 495,Dr. Laura Smith,UC Berkeley,"New Haven, CT",40.3487,-71.0942,2010,Infectious Diseases,Clinical Phase I
+Company 496,Dr. James Wilson,University of Michigan,"Boston, MA",42.3601,-87.6298,2002,Infectious Diseases,Clinical Phase III
+Company 497,Dr. Emily Desai,UC Berkeley,"Cambridge, MA",41.8781,-83.743,2017,Dermatology,Clinical Phase I
+Company 498,Dr. Sandra Johnson,Caltech,"Cambridge, MA",37.8716,-71.0942,2014,Immunology,Clinical Phase III
+Company 499,Dr. David Wilson,Stanford University,"Palo Alto, CA",40.3487,-71.0942,2000,Dermatology,Preclinical
+Company 500,Dr. Sandra Morgan,UC Berkeley,"Cambridge, MA",34.1478,-122.143,2011,Cardiology,Clinical Phase II
